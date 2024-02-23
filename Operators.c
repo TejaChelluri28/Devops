@@ -6,5 +6,5 @@ Program
 #include<stdio.h>
 void main()
 {
-  printf("This is git folder")
+  printf("This is git folder");
 }

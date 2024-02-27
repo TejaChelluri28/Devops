@@ -1,1 +1,11 @@
 Hypertext Markup Language
+It is used to develop the web applications
+
+
+
+
+
+
+
+
+
